@@ -5,7 +5,7 @@ Kaydayo/Kaydayo is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 <p align="center">
-    <img width="200" src="./mydp.webp" border-radius="50%">
+    <img width="200" src="./mydp.webp" style="border-radius:50%">
 </p>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👋 Hi, I’m @Kaydayo
+- 👋 Hi, I’m Mujeeb 
 
 - 👀 I’m interested in software development and collaboartion
 
