@@ -1,15 +1,11 @@
-- 👋 Hi, I’m @Kaydayo
-- 👀 I’m interested in software development and collaboartion
-- 🌱 I’m currently learning product development
-- 💞️ I’m looking to collaborate on product design, implementation and development
-- 📫 I'm available on liknedin @mujeeb Adebowale , whatsapp +2348188441180
+
 
 <!---
 Kaydayo/Kaydayo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 <p align="center">
-    <img width="200" src="./mydp.webp">
+    <img width="200" src="./mydp.webp" border-radius="50%">
 </p>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
@@ -27,15 +23,17 @@ You can click the Preview link to take a look at your changes.
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on  Soy Estudiante
-  
-- 🌱 I’m currently learning Git, Java y GitHub
-  
-- 👯 I’m looking to collaborate on Proyectos
-  
-- 💬 Ask me about Sql, Java, C#, JavaScript
-  
-- ⚡ Fun fact: Me gustan los girasoles.
+- 👋 Hi, I’m @Kaydayo
+
+- 👀 I’m interested in software development and collaboartion
+
+- 🌱 I’m currently learning Docker, Git, Python
+
+- 💞️ I’m looking to collaborate on projects
+
+-  📢 ask me about mongodb, javascript, typescript.
+
+- ⚡ fun fact: my perfect day starts with a long nap just after the alarm beeps
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
