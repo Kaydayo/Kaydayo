@@ -24,11 +24,11 @@ You can click the Preview link to take a look at your changes.
 
 - 👀 I’m interested in software development and collaboartion
 
-- 🌱 I’m currently learning Docker, Git, Python
+- 🌱 I’m currently learning Blockchain, Hyperledger Fabric v2
 
 - 💞️ I’m looking to collaborate on projects
 
--  📢 ask me about mongodb, javascript, typescript.
+-  📢 ask me about mongodb, javascript, typescript, nodejs, react.
 
 - ⚡ fun fact: my perfect day starts with a long nap just after the alarm beeps
 
