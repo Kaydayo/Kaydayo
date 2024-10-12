@@ -54,8 +54,8 @@ You can click the Preview link to take a look at your changes.
 <br>
 <br>
   <br>
-  
-[![Kaydayo's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Kaydayo&theme=tokyonight)](https://git.io/praveenscience)
+
+  [![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=Kaydayo)](https://github.com/ignacio-cuadra/github-readme-codewars)
 
 | ![Kaydayo's github stats](https://github-readme-stats.vercel.app/api?username=Kaydayo&show_icons=true&theme=tokyonight) | ![Kaydayo GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kaydayo&theme=tokyonight) |
 | --- | --- |
